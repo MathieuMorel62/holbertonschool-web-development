@@ -4,7 +4,7 @@
 
 ## Overview
 
-The "Smile School" project involves accurately replicating a given [Figma](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=0%3A1&mode=dev) design using **HTML5** and **CSS3**. The goal is to develop a deep understanding of advanced CSS properties and positioning techniques to precisely apply the visual design. No CSS frameworks are used, focusing on manual skills and accuracy in adhering to the original Figma design. This project demonstrates the ability to translate a visual design into a functional web product.
+The "Smile School" project involves accurately replicating a given [Figma](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=0%3A1&mode=dev) design using **HTML5** and **CSS3**. The goal is to develop a deep understanding of advanced CSS properties and positioning techniques to precisely apply the visual design. No CSS frameworks are used, focusing on manual skills and accuracy in adhering to the original Figma design. This project demonstrates the ability to translate a visual design into a functional web product. You can see to web site [here](https://mathieumorel62.github.io/holbertonschool-web-development/css_advanced/)
 
 ## Resources
 
