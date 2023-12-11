@@ -208,7 +208,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: -100px;
+  margin-top: -120px;
   background-color: var(--color-accent);
   color: var(--color-text);
   font-family: var(--font-family-base);
@@ -433,7 +433,6 @@ body {
 .membership-block-container {
   display: flex;
   justify-content: center;
-  gap: 1.69rem;
 }
 
 .membership-block {
