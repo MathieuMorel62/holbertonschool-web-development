@@ -415,6 +415,20 @@ body {
   width: 100%;
 }
 
+.membership-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-basis: calc(20% - 30px);
+  flex-shrink: 1;
+  margin: 10px 5px;
+}
+
+.membership-block-container {
+  display: flex;
+  justify-content: center;
+}
+
 .membership-title {
   font-size: 2rem;
   font-weight: var(--font-weight-light);
@@ -427,21 +441,6 @@ body {
 .membership-title span {
   color: var(--color-accent);
   font-weight: var(--font-weight-bold);
-}
-
-.membership-block-container {
-  display: flex;
-  justify-content: center;
-}
-
-.membership-block {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 16.0625rem;
-  height: 9.5625rem;
-  padding: 40px;
-  margin-bottom: 20px;
 }
 
 .membership-icon {
@@ -610,3 +609,4 @@ body {
   width: 120px;
   height: 15px;
 }
+
